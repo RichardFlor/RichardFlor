@@ -1,4 +1,4 @@
-## Olá, eu sou o Richard! Seja bem-vindo ao meu GitHub!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Richard! Seja bem-vindo ao meu GitHub!! <img src="https://user-images.githubusercontent.com/89093841/171424989-dd0debc0-8f74-498f-8b8a-cb084fd172db.gif" width="30px" height="25px"></h2>
 
 
 </br>
