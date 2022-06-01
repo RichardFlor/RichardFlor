@@ -43,7 +43,7 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://user-images.githubusercontent.com/89093841/171308158-5e6c5379-2ac6-4d45-b7e0-0800079a7c53.gif" />
 <p> - 👨‍💻 Cursando o ultimo semestre de Desenevolvimento de Sistemas na instituição Senai- Jandira. </p>
-<p> - 👨‍🎓 Formado em Técnico em Informática. </p>
+<p> - 👨‍🎓 Formado em Técnico de Informática. </p>
 <p> - 🎯 Interesse: Java, Kotlin, Node.js, API , HTML, CSS, JavaScript, PHP. </p>
 <p> - 🦊 Metas: me tornar um desenvolvedor back-end. </p>
 <p> - 🎮 Gameplay duvidosa em todos os jogos mas consigo me virar sempre.</p>
