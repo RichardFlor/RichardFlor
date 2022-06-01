@@ -1,10 +1,6 @@
 ## Olá, eu sou o Richard! Seja bem-vindo ao meu GitHub!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="300" src="https://user-images.githubusercontent.com/89093841/171307544-428ba71e-3f42-4efd-95c2-d3aa11e49a52.png" />
-  </a>
-</p>
+
 </br>
 </br>
 <p align="center">
@@ -20,6 +16,11 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=RichardFlor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="https://user-images.githubusercontent.com/89093841/171307544-428ba71e-3f42-4efd-95c2-d3aa11e49a52.png" />
   </a>
 </p>
 
