@@ -5,22 +5,15 @@
   <img src="https://user-images.githubusercontent.com/89093841/171458494-bf7684df-150e-41f9-b8b5-c256cf298ed0.gif">
  </h4>
 
+</br>
+</br>
 
-</br>
-</br>
 <p align="center">
   <a href="https://github.com/RichardFlor/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFlor&layout=compact&langs_count=7&theme=dracula"
-    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFlor&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <a href="https://github.com/RichardFlor/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=RichardFlor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=RichardFlor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
@@ -30,16 +23,11 @@
   </a>
 </p>
 
-
-
-
-   ##
  
 <div align="center"> 
- 
- 
-  ![Snake animation](https://github.com/RichardFlor/RichardFlor/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  ![Snake animation](https://github.com/RichardFlor/RichardFlor/blob/output/github-contribution-grid-snake.svg) 
+
 </div>
 
 
@@ -60,7 +48,7 @@
 <div align="center">
      <img height="70" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+     <img height="70" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,9 +61,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
 ## Meus contatos :iphone:
@@ -91,19 +77,17 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center"> 
- 
-</p>
+
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/RichardFlor/count.svg" />
  </p>
 
-</p>
 
 
 <div align="center">
+  
    <a href="#">
     <img align="center" width="300" src="https://user-images.githubusercontent.com/89093841/171309766-7cbcb3b8-b130-44b8-b0db-929eb54239a3.gif" />
   </a>
