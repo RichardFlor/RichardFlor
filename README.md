@@ -38,10 +38,10 @@
 
 <div style="display: inline_block">
 
-<p> - 👨‍💻 Cursando o ultimo semestre de Desenevolvimento de Sistemas na instituição Senai- Jandira. </p>
-<p> - 👨‍🎓 Formado em Técnico de Informática. </p>
+<p> - 👨‍🎓 Formado em Desenevolvimento de Sistemas na instituição Senai- Jandira. </p>
+<p> - 👨‍🎓 Formado em Técnico de Informática na instituição ITB. </p>
 <p> - 🎯 Interesse: Java, Kotlin, Node.js, API , HTML, CSS, JavaScript, PHP. </p>
-<p> - 🦊 Metas: me tornar um desenvolvedor back-end. </p>
+<p> - 🦊 Metas: me tornar um desenvolvedor de back-end em JAVA. </p>
 <p> - 🎮 Gameplay duvidosa em todos os jogos mas consigo me virar sempre.</p>
 <p> - 📺 Gosto de assistir animes.</p>
   </div>
