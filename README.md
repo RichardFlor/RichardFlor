@@ -41,7 +41,7 @@
 <p> - 👨‍🎓 Formado em Técnico de Informática no ITB (Instituto Técnico de Barueri). </p>
 <p> - 👨‍🎓 Cursando Ciências da Computação na Universidade São Judas Tadeu. </p>
 <p> - 🎯 Interesse: Java, Kotlin, Node.js, API , HTML, CSS, JavaScript, PHP. </p>
-<p> - 🦊 Metas: me tornar um desenvolvedor de back-end em JAVA. </p>
+<p> - 🦊 Metas: me tornar um desenvolvedor back-end em JAVA. </p>
 <p> - 🎮 Gameplay duvidosa em todos os jogos mas consigo me virar sempre.</p>
 <p> - 📺 Gosto de assistir animes.</p>
   </div>
