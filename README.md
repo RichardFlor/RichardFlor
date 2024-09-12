@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Richard! Seja bem-vindo ao meu GitHub!!
+##Seja bem-vindo ao meu GitHub!!
 
  <!--
 <h4 align="center">
