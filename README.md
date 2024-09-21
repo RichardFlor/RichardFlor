@@ -1,6 +1,4 @@
 
-##Seja bem-vindo ao meu GitHub!!
-
  <!--
 <h4 align="center">
   <img src="https://user-images.githubusercontent.com/89093841/171458494-bf7684df-150e-41f9-b8b5-c256cf298ed0.gif">
