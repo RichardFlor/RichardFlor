@@ -30,8 +30,6 @@
  -->
 
 
-
-
 ### Sobre mim
 <div>
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://user-images.githubusercontent.com/89093841/171308158-5e6c5379-2ac6-4d45-b7e0-0800079a7c53.gif"/> 
