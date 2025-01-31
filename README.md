@@ -1,4 +1,6 @@
+<div align="center"> 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RichardFlor&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
  <!--
 <h4 align="center">
   <img src="https://user-images.githubusercontent.com/89093841/171458494-bf7684df-150e-41f9-b8b5-c256cf298ed0.gif">
