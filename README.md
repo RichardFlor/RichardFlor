@@ -1,6 +1,10 @@
+ <!--
 <div align="center"> 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RichardFlor&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
+ -->
+
+ 
  <!--
 <h4 align="center">
   <img src="https://user-images.githubusercontent.com/89093841/171458494-bf7684df-150e-41f9-b8b5-c256cf298ed0.gif">
@@ -11,13 +15,7 @@
 https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background
 
 -->
-<div align="center">
-  <a href="https://github.com/RichardFlor/github-readme-stats">
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFlor&layout=compact&hide_border=true&title_color=754ef9&text_color=754ef9&bg_color=0d1117" />
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardFlor&show_icons=true&count_private=true&hide_border=true&title_color=754ef9&icon_color=754ef9&text_color=754ef9&bg_color=0d1117" alt="github stats" /> 
- </a>
- </div>
- 
+
 
 
  <!--
