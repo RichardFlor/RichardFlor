@@ -37,7 +37,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
 -->
 
 <div align="center">
-  <img src="https://github.com/RichardFlor/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/RichardFlor/RichardFlor/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ### Sobre mim
