@@ -17,11 +17,11 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
 </p>
  -->
 
- <!--
+ 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RichardFlor&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
--->
+
 
 <div align="center">
   <a href="https://github.com/RichardFlor/github-readme-stats">
