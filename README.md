@@ -40,7 +40,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
 <p> - 👨‍🎓 Formado em Desenevolvimento de Sistemas na instituição Senai- Jandira. </p>
 <p> - 👨‍🎓 Formado em Técnico de Informática no ITB (Instituto Técnico de Barueri). </p>
 <p> - 👨‍🎓 Cursando Ciências da Computação na Universidade São Judas Tadeu. </p>
-<p> - 🎯 Interesse: Java, Node.js, React.js </p>
+<p> - 🎯 Interesse: Java, Node.js </p>
 <p> - 🦊 Metas: ???. </p>
 <p> - 🎮 Gameplay duvidosa em todos os jogos mas consigo me virar sempre.</p>
 <p> - 📺 Gosto de assistir animes.</p>
