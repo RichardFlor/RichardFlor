@@ -17,18 +17,17 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
 </p>
  -->
 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RichardFlor&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardFlor/RichardFlor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichardFlor/RichardFlor/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RichardFlor/RichardFlor/output/github-contribution-grid-snake.svg">
 </picture>
 
- 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RichardFlor&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
-
+ <!--
 <div align="center">
   <a href="https://github.com/RichardFlor/github-readme-stats">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardFlor&layout=compact&hide_border=true&title_color=754ef9&text_color=754ef9&bg_color=0d1117" />
@@ -36,7 +35,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RichardFlor&theme=react" /> -->
  </a>
  </div>
- 
+
 ### Sobre mim
 <div>
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://user-images.githubusercontent.com/89093841/171308158-5e6c5379-2ac6-4d45-b7e0-0800079a7c53.gif"/> 
