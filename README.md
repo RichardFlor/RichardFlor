@@ -37,8 +37,10 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
  </div>
 
 ### Sobre mim
+<!--
 <div>
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://user-images.githubusercontent.com/89093841/171308158-5e6c5379-2ac6-4d45-b7e0-0800079a7c53.gif"/> 
+-->
 
 <div style="display: inline_block">
 
@@ -88,7 +90,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
 </p>
 
 
-
+<!--
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/RichardFlor/count.svg" />
@@ -106,3 +108,4 @@ https://github-readme-streak-stats.herokuapp.com/demo/?user=RichardFlor&theme=de
     <img align="center" width="307" src="https://user-images.githubusercontent.com/89093841/171309975-4d8a80e8-8660-4a54-8be4-f5f5f88553dd.gif" />
   </a>
 <div>
+-->
